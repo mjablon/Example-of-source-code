@@ -1,4 +1,5 @@
 <?
+#This is it!
 require_once('adodb/adodb.inc.php');
 require_once('Class.db.php');
 
